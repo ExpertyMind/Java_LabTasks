@@ -7,4 +7,10 @@ All Lab Tasks are in LabWork
 
 PACMAN Game inside CEP-PACMAN
 
+_____________________________________________
+RU LANGAUGE
+_____________________________________________
 RU Proposal
+RU Report
+RU Architecture 
+RU Langauge Files
